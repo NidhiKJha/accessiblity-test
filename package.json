@@ -11,6 +11,6 @@
   "dependencies": {
     "pa11y": "^5.3.0",
     "pa11y-reporter-html": "^2.0.0",
-    "puppeteer": "^1.6.0"
+    "puppeteer": "^1.13.0"
   }
 }
